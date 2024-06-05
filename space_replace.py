@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 import csv
-import glob
 # 1. Create parameters for the document
 def delete_cols(file: str, cols_to_delete: list):
     # 2. Create list for the columns to be deleted
-    cols_to_delete = set(cols_to_delete)
+    cols_to_delete = set(cols_to_delete) # type: ignore
     # 3. Open file and write to CSV
-    with open(file) as file, open('song.csv', 'w') as output:
+    with open(file) as file, open('song.csv', 'w') as output: # type: ignore
         reader = list(csv.reader(file))
         headers = reader[0]
 
