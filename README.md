@@ -1,5 +1,5 @@
 # Yet another wacky download tool
-Real simple python + bash script to download a playlist from Spotify. Should be simple but haven't been able to test this so let me know if something doesn't work out. 
+Real simple python + shell script to download a playlist from Spotify. Should be simple but haven't been able to test this so let me know if something doesn't work out. 
 #### Guide to use
 ###### Pre-Installation
 You'll need python3 and zsh installed before being able to use this.
