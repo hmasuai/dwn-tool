@@ -11,3 +11,9 @@ Do `brew install python3` in the terminal and then do `brew install zsh`
 4. Run the commands `chmod +x ./grabsound.sh` press enter and then `./grabsound.sh`
 5. yt-dlp will start to download all of the songs into a new folder called songs.
 6. Voila you're done :)
+7. To run again simply replace the songs.csv and delete the other created files.
+
+#### To Do
+- Need to fix running another csv through without deletion
+- import metadata?
+- look at if theres a better way to ensure correct download
