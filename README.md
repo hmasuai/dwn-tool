@@ -14,7 +14,7 @@ Let me know if theres any errors!! You might have to set up an environmental var
 4. Open up command prompt and us `cd` to move into the folder. (Do `cd [destination]` until you arrive at the folder. i.e. `cd desktop` then `cd songs`)
 5. Run the commands `chmod +x ./grabsound.sh` press enter and then `./grabsound.sh`
 6. yt-dlp will start to download all of the songs into a new folder called songs.
-7. Voila you're done :)
+7. Voila you're done :) Leaves you with a .opus file (ik people don't know it but its a good audio file type imo)
 8. To run again simply replace songs.csv
 
 #### Limitations
