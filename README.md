@@ -6,7 +6,7 @@ Real simple python + shell script to download a playlist from Spotify. Should be
 Have <a href="https://brew.sh/">homebrew</a> installed and then install python3 and zsh
 Do `brew install python3` in the terminal and then do `brew install zsh`
 Let me know if theres any errors!! You might have to set up an environmental variable for python.
-###### Installation
+#### Installation
 1. Press the code and download zip button in github then extract the folder.
 2. Copy Spotify playlist and use [Exportify](https://watsonbox.github.io/exportify/) (not on firefox) and download the .csv file of the playlist. Don't change any of the settings or anything. **RENAME THE FILE TO songs.csv**
 3. Create a folder(or use whatever one you want) and put the .csv file into it along with space_replace.py and grabsound.sh.
