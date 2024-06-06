@@ -4,7 +4,7 @@ Real simple python + shell script to download a playlist from Spotify. Should be
 ### Pre-Installation
 #### MacOS
 Have <a href="https://brew.sh/">homebrew</a> installed and then install python3 and zsh
-In the terminal do `brew install python3`, `brew install zsh`, `brew instal yt-dlp`, and then `brew install ffmpeg`
+In the terminal do `brew install python3`, `brew install zsh`, `brew install yt-dlp`, and then `brew install ffmpeg`
 Check out <a href="https://hmasusi-online.neocities.org/CD_Guide">my website</a> for some additonal discussion of this process!
 Let me know if theres any errors!! You might have to set up an environmental variable for python.
 #### Installation
