@@ -1,6 +1,7 @@
 # Yet another wacky download tool
 Real simple python + shell script to download a playlist from Spotify. Should be simple but haven't been able to test this so let me know if something doesn't work out. 
 ## Guide to use
+Don't pirate stuff suport artists! Also don't overload exportify by doing all your playlists at once (why you would want that idk)
 ### Pre-Installation
 #### MacOS
 Have <a href="https://brew.sh/">homebrew</a> installed and then install python3, zsh, yt-dlp, and ffmpeg.
