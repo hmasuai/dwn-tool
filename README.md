@@ -22,7 +22,8 @@ Let me know if theres any errors!! You might have to set up an environmental var
 - Downloads through a youtube search of title + artist which could fail if the song isn't on youtube.
 - No way to specify song besides the title or artist (specific releases could be challenging)
 
-#### To Do
+#### To Do?
 - Need to fix running another csv through without deletion
 - Import metadata?
-- Look at if theres a better way to ensure correct download
+- Look at if theres a better way to ensure correct download (add album to search?)
+- Directly interface with spotify api
