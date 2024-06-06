@@ -18,7 +18,7 @@ Let me know if theres any errors!! You might have to set up an environmental var
 8. To run again simply replace the songs.csv and delete the other created files.
 
 #### Limitations
-- Downloads through a youtube search of title + artist which could fail
+- Downloads through a youtube search of title + artist which could fail if the song isn't on youtube.
 - No way to specify song besides the title or artist (specific releases could be challenging)
 
 #### To Do
