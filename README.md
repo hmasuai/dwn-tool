@@ -14,7 +14,11 @@ Do `brew install python3` in the terminal and then do `brew install zsh`
 7. Voila you're done :)
 8. To run again simply replace the songs.csv and delete the other created files.
 
+#### Limitations
+- Downloads through a youtube search of title + artist which could fail
+- No way to specify song besides the title or artist (specific releases could be challenging)
+
 #### To Do
 - Need to fix running another csv through without deletion
-- import metadata?
-- look at if theres a better way to ensure correct download
+- Import metadata?
+- Look at if theres a better way to ensure correct download
