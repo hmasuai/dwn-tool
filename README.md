@@ -15,7 +15,7 @@ Let me know if theres any errors!! You might have to set up an environmental var
 5. Run the commands `chmod +x ./grabsound.sh` press enter and then `./grabsound.sh`
 6. yt-dlp will start to download all of the songs into a new folder called songs.
 7. Voila you're done :)
-8. To run again simply replace the songs.csv and delete the other created files.
+8. To run again simply replace songs.csv
 
 #### Limitations
 - Downloads through a youtube search of title + artist which could fail if the song isn't on youtube.
