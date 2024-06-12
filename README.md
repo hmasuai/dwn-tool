@@ -5,7 +5,7 @@ Don't pirate stuff support artists! Also don't overload exportify by doing all y
 ### Pre-Installation
 #### MacOS
 Have <a href="https://brew.sh/">homebrew</a> installed and then install python3, zsh, yt-dlp, and ffmpeg. (Unless you have installed any of these already)
-In the terminal do `brew install python3`, `brew install zsh`, `brew install yt-dlp`, and then `brew install ffmpeg`
+In the terminal do `brew install python3`, [if on mac this is already installed!]`brew install zsh`, `brew install yt-dlp`, and then `brew install ffmpeg`
 Check out <a href="https://hmasusi-online.neocities.org/CD_Guide">my website</a> for some additonal discussion of this process! (And a little guide on downloading one specific song/playlist)
 Let me know if theres any errors!! You might have to set up an environmental variable for python.
 #### Installation
