@@ -24,7 +24,7 @@ delete_cols('songs.csv', ['Track URI', 'Artist URI(s)', 'Album URI', 'Album Name
 # 1. Open the CSV file in reading mode and the TXT file in writing mode
 with open('song.csv', 'r') as f_in, open('song.txt', 'w') as f_out:
 
-    # 2. Read the CSV file and store in variable
+    # 2. Read the CSV file and store in variable, also begin to add + for word separation
     content = f_in.read().replace(',','+')
 
     # 3. Write the content into the TXT file
